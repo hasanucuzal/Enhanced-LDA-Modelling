@@ -1,11 +1,11 @@
-# Mapping Strategic Narratives: Optimized Topic Modelling and Temporal Evolution in Putin’s Ukraine Discourse (2022-2025) 📊
+# Mapping Strategic Narratives: Optimized Topic Modelling and Temporal Evolution in Putin’s Ukraine Discourse (2022-2025)
 
 This study examines the dominant themes and strategic framing in Russian President Vladimir Putin’s discourse on Ukraine within the context of the geopolitical crisis and domestic political consolidation between February 2022 and December 2025. From more than 2,000 speeches published on the Kremlin’s official website, a corpus of 126 presidential speeches directly related to Ukraine, comprising approximately 750,000 words, was analysed. 
 
 1. **Smart Stopwords Detector:** Identifies and filters out meaningless, repetitive, or contextually insignificant words from speech texts using statistical and ensemble methods.
 2. **Enhanced Topic Modeling (LDA):** Extracts main themes from cleaned texts using the Latent Dirichlet Allocation (LDA) algorithm, analyzes their evolution over time, and presents them with confidence intervals.
 
-## 🚀 Features
+## Features
 
 - **Data Collection and Preprocessing:** Text extraction from `.docx` files, saving in CSV/Excel format.
 - **Advanced Stopwords Detection:**
@@ -25,7 +25,7 @@ This study examines the dominant themes and strategic framing in Russian Preside
   - Heat maps showing inter-topic similarity matrices
 - **Save Results:** All analysis results are automatically saved to CSV files
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - **Data Processing:** Pandas, NumPy
@@ -34,7 +34,7 @@ This study examines the dominant themes and strategic framing in Russian Preside
 - **Statistics:** SciPy
 - **Other:** `python-docx`, `openpyxl`, `collections`, `re`, `os`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 enhanced_lda_modelling/
@@ -53,7 +53,7 @@ enhanced_lda_modelling/
 └── README.md
 ```
 
-## 💻 Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
@@ -66,7 +66,7 @@ enhanced_lda_modelling/
    pip install pandas numpy scikit-learn matplotlib seaborn scipy python-docx openpyxl
    ```
 
-## ⚙️ Usage
+## Usage
 
 1. **Data Preparation:** Place your `speech.docx` file in the project root directory. Expected file format:
    ```
@@ -90,7 +90,7 @@ enhanced_lda_modelling/
    - Enter random seed (leave empty for default 42)
    - Enter number of topics (2-8, leave empty for default 5)
 
-## 📊 Sample Outputs
+## Sample Outputs
 
 ### 1. Smart Stopwords List (`smart_stopwords.txt`)
 ```
@@ -123,14 +123,14 @@ When the project runs, it automatically generates 4 main graphs:
 - **Confidence Score Distribution:** Violin plots showing topic-based distributions
 - **Topic Similarity Matrix:** Heat map showing inter-topic relationships
 
-## 📈 Analysis Metrics
+## Analysis Metrics
 
 - **Perplexity:** Model performance metric (lower values are better)
 - **Confidence Score:** Probability assigned to the dominant topic for each speech (0-1 range)
 - **Confidence Interval:** 95% confidence level for topic-based average confidence
 - **Topic Popularity:** Number and percentage of speeches per topic
 
-## 🎯 Key Events Marked on Timeline
+## Key Events Marked on Timeline
 
 The time analysis charts include markers for significant events:
 
