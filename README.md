@@ -145,10 +145,6 @@ The time analysis charts include markers for significant events:
 - Trump Peace Plan (November 2025)
 
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 📧 Contact
 
 For questions or feedback: [hasan.ucuzal@inonu.edu.tr]
