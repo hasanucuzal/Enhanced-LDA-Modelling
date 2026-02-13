@@ -144,12 +144,12 @@ The time analysis charts include markers for significant events:
 - Trump-Putin Alaska Summit (August 2025)
 - Trump Peace Plan (November 2025)
 
-## 📧 Cite this dataset
+##  Cite this dataset
 
-Turan, Ahmet; Ucuzal, Hasan (2026), “Russian President Vladimir Putin's remarks on Ukraine”, Mendeley Data, V1, doi: 10.17632/xhvrx9fyd4.1
+|Turan, Ahmet; Ucuzal, Hasan (2026), “Russian President Vladimir Putin's remarks on Ukraine”, Mendeley Data, V1, doi: 10.17632/xhvrx9fyd4.1|
 
 
-## 📧 Contact
+##  Contact
 
 For questions or feedback: [hasan.ucuzal@inonu.edu.tr]
 
