@@ -1,0 +1,54 @@
+SMART STOPWORDS DETECTOR - ANALYSIS REPORT
+ANALYSIS DATE: 2026-02-13 14:19:00
+DATASET: 126 speeches
+TOTAL WORDS: 747,047
+UNIQUE WORDS: 17,296
+TARGET REDUCTION: %35
+
+
+STOPWORDS ANALYSIS:
+
+HIGH_FREQ:
+  Word count: 50
+  Examples: the, and, to, of, in, is, we, a, this, that
+
+HIGH_DOC:
+  Word count: 405
+  Examples: the, and, to, of, in, is, we, a, this, that
+
+LOW_TFIDF:
+  Word count: 400
+  Examples: model, ai, simple, income, japan, competition, ve, rates, ll, challenge
+
+SHORT_WORDS:
+  Word count: 122
+  Examples: to, of, in, is, we, a, i, it, as, on
+FINAL STOPWORDS STATISTICS:
+Total stopwords: 23
+Covered words: 261,465
+Coverage rate: %35.0
+
+TOP 50 MOST EFFECTIVE STOPWORDS:
+  1. the                    42,000 times (% 5.62) | %100.0 documents
+  2. and                    23,626 times (% 3.16) | % 99.2 documents
+  3. to                     21,506 times (% 2.88) | %100.0 documents
+  4. of                     20,801 times (% 2.78) | %100.0 documents
+  5. in                     14,852 times (% 1.99) | %100.0 documents
+  6. is                     13,227 times (% 1.77) | %100.0 documents
+  7. we                     11,993 times (% 1.61) | %100.0 documents
+  8. a                      11,357 times (% 1.52) | %100.0 documents
+  9. this                   10,492 times (% 1.40) | %100.0 documents
+ 10. that                   10,107 times (% 1.35) | %100.0 documents
+ 11. i                       9,258 times (% 1.24) | %100.0 documents
+ 12. it                      8,550 times (% 1.14) | %100.0 documents
+ 13. are                     8,145 times (% 1.09) | %100.0 documents
+ 14. for                     7,344 times (% 0.98) | %100.0 documents
+ 15. you                     6,383 times (% 0.85) | % 95.2 documents
+ 16. have                    6,300 times (% 0.84) | %100.0 documents
+ 17. our                     5,892 times (% 0.79) | %100.0 documents
+ 18. as                      5,415 times (% 0.72) | %100.0 documents
+ 19. with                    5,326 times (% 0.71) | % 99.2 documents
+ 20. will                    5,168 times (% 0.69) | % 99.2 documents
+ 21. on                      4,929 times (% 0.66) | %100.0 documents
+ 22. not                     4,922 times (% 0.66) | % 96.0 documents
+ 23. be                      3,872 times (% 0.52) | %100.0 documents
