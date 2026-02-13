@@ -37,7 +37,7 @@ This study examines the dominant themes and strategic framing in Russian Preside
 ## 📁 Project Structure
 
 ```
-putin-speeches-analysis/
+enhanced_lda_modelling/
 ├── speech.docx                          # Raw Word file containing speech data
 ├── speech.csv                            # Raw CSV created in the first stage
 ├── main.py                              # Main execution script
